@@ -1,0 +1,25 @@
+{
+  "list": [
+    {
+      "property": "Silver Oaks",
+      "location": "Kolkata",
+      "space": "1 BHK",
+      "img": "https://media.designcafe.com/wp-content/uploads/2021/03/06121551/latest-living-room-design-designed-in-1bhk-house-design.jpg",
+      "id": "1"
+    },
+    {
+      "property": "Suncity Heights",
+      "location": "Delhi",
+      "space": "2 BHK",
+      "img": "https://keyvendors.com/blogs/wp-content/uploads/2023/06/interior-design-company-1-1024x602.jpg",
+      "id": "2"
+    },
+    {
+      "property": "Windsor Castle",
+      "location": "Mumbai",
+      "space": "3 BHK",
+      "img": "https://admin.rustomjee.com/assets/uploads/locationpage/768X439/mobile_image_202305101683697090963193.jpg",
+      "id": "3"
+    }
+  ]
+}
